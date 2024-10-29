@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">pfmemo</string>
+    <string name="contents_btn">保存</string>
+    <string name="delete_btn">削除</string>
+    <string name="description">photo</string>
+    <string name="m_ttl">題名:</string>
+    <string name="m_ttl_hint">タイトルを入力</string>
+    <string name="m_main_hint">本文を入力</string>
+</resources>
